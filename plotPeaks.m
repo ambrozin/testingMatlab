@@ -7,3 +7,6 @@ clear all, close all, clc
 
 figure(1) 
 plot(peaks)
+
+xlabel('x (mm)')
+ylabel('y (mm)')
