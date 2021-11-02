@@ -8,3 +8,7 @@ clc, clear all, close all
 
 figure(1)
 surf(peaks), shading interp 
+
+xlabel('x (mm)')
+ylabel('y (mm)')
+zlabel('z (mm)')
